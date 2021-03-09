@@ -1,0 +1,66 @@
+.vscode/
+__pycache__/
+videos/
+*.ssmssln
+*.ssmssqlproj
+*.code-workspace
+**/workspace.tar.gz
+course_1_NN_and_DL/week4_Deep Neural Networks/Deep Neural Network Application_ Image Classification/dnn_app_utils_v2.py
+course_1_NN_and_DL/week4_Deep Neural Networks/Deep Neural Network Application_ Image Classification/Deep Neural Network - Application v3.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Deep Neural Network Application_ Image Classification/Deep Neural Network - Application v4.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Deep Neural Network Application_ Image Classification/Deep Neural Network - Application v5.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Deep Neural Network Application_ Image Classification/Deep Neural Network - Application v6.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Deep Neural Network Application_ Image Classification/Deep Neural Network - Application v7.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Building your Deep Neural Network - Step by Step/testCases_v3.py
+course_1_NN_and_DL/week4_Deep Neural Networks/Building your Deep Neural Network - Step by Step/testCases_v4.py
+course_1_NN_and_DL/week4_Deep Neural Networks/Building your Deep Neural Network - Step by Step/Building your Deep Neural Network - Step by Step v5.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Building your Deep Neural Network - Step by Step/Building your Deep Neural Network - Step by Step v6.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Building your Deep Neural Network - Step by Step/Building your Deep Neural Network - Step by Step v7.ipynb
+course_1_NN_and_DL/week4_Deep Neural Networks/Building your Deep Neural Network - Step by Step/Building your Deep Neural Network - Step by Step v8.ipynb
+course_1_NN_and_DL/week3_Shallow neural networks/Planar data classification with one hidden layer/Planar data classification with one hidden layer v4.ipynb
+course_1_NN_and_DL/week3_Shallow neural networks/Planar data classification with one hidden layer/Planar data classification with one hidden layer v5.ipynb
+course_1_NN_and_DL/week3_Shallow neural networks/Planar data classification with one hidden layer/Planar_data_classification_with_onehidden_layer_v6a.ipynb
+course_1_NN_and_DL/week3_Shallow neural networks/Planar data classification with one hidden layer/Planar_data_classification_with_onehidden_layer_v6b.ipynb
+course_1_NN_and_DL/week2_Neural Networks Basics/Python Basics with Numpy/Python Basics With Numpy v3.ipynb
+course_1_NN_and_DL/week2_Neural Networks Basics/Logistic Regression as a Neural Network/Logistic Regression with a Neural Network mindset v4 - Stanford.ipynb
+course_1_NN_and_DL/week2_Neural Networks Basics/Logistic Regression as a Neural Network/Logistic Regression with a Neural Network mindset v4.ipynb
+course_1_NN_and_DL/week2_Neural Networks Basics/Logistic Regression as a Neural Network/Logistic Regression with a Neural Network mindset v5.ipynb
+readonly/
+course_2_Improving_DNN/week3_Hyperparameter tuning/Tensorflow Tutorial v1.ipynb
+course_2_Improving_DNN/week3_Hyperparameter tuning/Tensorflow Tutorial v2.ipynb
+course_2_Improving_DNN/week3_Hyperparameter tuning/Tensorflow Tutorial v3.ipynb
+course_2_Improving_DNN/week3_Hyperparameter tuning/Tensorflow Tutorial v3a.ipynb
+course_2_Improving_DNN/week2_Optimization algorithms/Optimization methods.ipynb
+course_2_Improving_DNN/week1_Practical aspects of Deep Learning/Regularization/Regularization - v2.ipynb
+course_2_Improving_DNN/week1_Practical aspects of Deep Learning/Regularization/Regularization.ipynb
+course_4_CNN/week4_Special applications Face recognition & Neural style transfer/Neural Style Transfer/Art Generation with Neural Style Transfer - v1.ipynb
+course_4_CNN/week4_Special applications Face recognition & Neural style transfer/Neural Style Transfer/Art Generation with Neural Style Transfer - v2.ipynb
+course_4_CNN/week4_Special applications Face recognition & Neural style transfer/Neural Style Transfer/Art Generation with Neural Style Transfer - v3.ipynb
+course_4_CNN/week4_Special applications Face recognition & Neural style transfer/Face Recognition/Face Recognition for the Happy House - v1.ipynb
+course_4_CNN/week4_Special applications Face recognition & Neural style transfer/Face Recognition/Face Recognition for the Happy House - v2.ipynb
+course_4_CNN/week3_Object detection/Car detection for Autonomous Driving/Autonomous driving application - Car detection - v1.ipynb
+course_4_CNN/week3_Object detection/Car detection for Autonomous Driving/Autonomous driving application - Car detection - v2.ipynb
+course_4_CNN/week3_Object detection/Car detection for Autonomous Driving/Autonomous driving application - Car detection - v3.ipynb
+course_4_CNN/week2_Deep convolutional models case studies/ResNets/Residual Networks - v1.ipynb
+course_4_CNN/week2_Deep convolutional models case studies/ResNets/Residual Networks - v2.ipynb
+course_4_CNN/week2_Deep convolutional models case studies/KerasTutorial/Keras - Tutorial - Happy House v1.ipynb
+course_4_CNN/week1_Foundations of Convolutional Neural Networks/Convolution model - Application - v1.ipynb
+course_4_CNN/week1_Foundations of Convolutional Neural Networks/Convolution model - Step by Step - v1.ipynb
+course_4_CNN/week1_Foundations of Convolutional Neural Networks/Convolution model - Step by Step - v2.ipynb
+course_5_Sequence_NN/week3_Sequence models & Attention mechanism/Trigger word detection/Trigger word detection - v1.ipynb
+course_5_Sequence_NN/week3_Sequence models & Attention mechanism/Machine Translation/Neural machine translation with attention - v4.ipynb
+course_5_Sequence_NN/week2_Natural Language Processing & Word Embeddings/Word Vector Representation/Operations on word vectors - v2.ipynb
+course_5_Sequence_NN/week2_Natural Language Processing & Word Embeddings/Emojify/Emojify - v2.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Jazz improvisation with LSTM/Improvise a Jazz Solo with an LSTM Network - v3.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Dinosaur Island -- Character-level language model/previous versions/Dinosaurus Island -- Character level language model final - v1.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Dinosaur Island -- Character-level language model/previous versions/Dinosaurus Island -- Character level language model final - v2-Copy1.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Dinosaur Island -- Character-level language model/previous versions/Dinosaurus Island -- Character-level language model - (final) - learners.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Dinosaur Island -- Character-level language model/Dinosaurus Island -- Character level language model final - v3.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Building a Recurrent Neural Network - Step by Step/previous versions/Building a Recurrent Neural Network - Step by Step - v1.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Building a Recurrent Neural Network - Step by Step/previous versions/Building a Recurrent Neural Network - Step by Step - v2.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Building a Recurrent Neural Network - Step by Step/Building a Recurrent Neural Network - Step by Step - v3.ipynb
+course_1_NN_and_DL/week1_Introduction to deep learning/Introduction to deep learning.pdf
+course_2_Improving_DNN/week2_Optimization algorithms/opt_utils.py
+course_5_Sequence_NN/week3_Sequence models & Attention mechanism/Machine Translation/previous versions/Neural machine translation with attention - v1.ipynb
+course_5_Sequence_NN/week3_Sequence models & Attention mechanism/Machine Translation/previous versions/Neural machine translation with attention - v2.ipynb
+course_5_Sequence_NN/week1_Recurrent Neural Networks/Jazz improvisation with LSTM/previous versions/Improvise a Jazz Solo with an LSTM Network - v1.ipynb

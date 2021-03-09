@@ -1,0 +1,1 @@
+T:/Documents/Coursera/#MyCoursera/deeplearning_ai/course_5_Sequence_NN/home/jovyan/work-ro/Week 2/Word Vector Representation/data/input.txt
